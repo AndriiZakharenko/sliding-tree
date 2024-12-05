@@ -9,7 +9,6 @@ Requirements:
 
 ### Screenshot of the tree
 ![screenshot](src/images/sliding_tree.png)
-![screenshot](src/images/sliding_tree2.png)
 
 ## Demo Links
 
