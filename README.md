@@ -1,15 +1,27 @@
-### Task: Sliding tree
+# Sliding tree
 
-Created an expandable tree.
+### Description
 
-Requirements: 
-- Clicking on the headline should hide or show elements.
-- Clicking outside the title text (in an empty place) should do nothing.
+- Created an expandable tree
 
+### Stack
 
-### Screenshot of the tree
-![screenshot](src/images/sliding_tree.png)
+- HTML (BEM)
+- CSS
+- JS
 
-## Demo Links
+### Tools
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/js_sliding-tree-DOM/)
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Parcel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/sliding-tree/)
+
+### Reference Image
+
+<img src="src/images/sliding_tree.png" alt="reference image" width="300px" />
